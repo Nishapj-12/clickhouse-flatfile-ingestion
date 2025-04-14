@@ -1,0 +1,2 @@
+
+Prompt: Create a Java web app to ingest data bidirectionally between ClickHouse and Flat File (CSV) using JWT token auth, column selection UI, and record reporting.
